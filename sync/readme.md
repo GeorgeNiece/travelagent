@@ -26,7 +26,7 @@ internal to Kubernetes. Hence, the application is facilitating internal "travel"
 
 **Step 2**: Load in this source code
 
-`git clone https://github.com/reselbob/travelagent.git`
+`git clone https://github.com/GeorgeNiece/travelagent.git`
 
 **Step 3**: Navigate to the synchronous version of the MOA
 
